@@ -51,21 +51,3 @@
 
     </c:param>
 </c:import>
-あわせて、CSSも修正します。style.css で一番下に、以下のような内容を追加してください。
-
-table#employee_list th {
-    width: 30%;
-    padding: 10px 2%;
-}
-
-table#employee_list td {
-    width: 29%;
-    padding: 10px 2%;
-}
-
-tr.row1 {
-        background-color: #f2f2f2;
-}
-tr.row0 {
-        background-color: #ffffff;
-}
